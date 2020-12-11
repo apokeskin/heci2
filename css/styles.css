@@ -1,0 +1,66 @@
+/*section= head and nav bar*/
+.navbar{
+}
+
+
+.content-giris{
+    font-size: 3.5rem;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding-top: 30%;
+    
+}
+
+/*section= hakkımızda*/
+
+.div-hakkimizda{
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin: auto; 
+    line-height: 2.5;
+}
+
+.hakkımızda-heading{
+    color: black;
+    font-size: 3rem;
+}
+.carousel-control-prev-icon { 
+    background-image:url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23009be1' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E"); 
+    width: 30px;
+    height: 48px;
+}
+.carousel-control-next-icon { 
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23009be1' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+    width: 30px;
+    height: 48px;
+}
+
+.carousel-item {
+    width:1450px;
+    height:875px;
+  }
+
+  /*section= proje*/
+
+  .proje-heading{
+
+    font-size: 3.5rem;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding-top: 30%;
+    padding-left: 40%;
+  }
+
+
+
+  .a{
+font-size: 50px;
+text-align: center;
+padding-top: 20%;
+margin: 20px;
+
+}
+i{
+    padding-left: 5%;
+}
